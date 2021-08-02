@@ -9,3 +9,4 @@ for c in range(0,3):
 for f in filmes:
     for k, v in f.items():
         print(f'O {k} do filme é {v}')
+
