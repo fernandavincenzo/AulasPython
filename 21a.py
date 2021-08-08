@@ -41,7 +41,7 @@ def teste():
 
 
 n = 2
-print(f'No programa principal, n = {n}')   # funciona no princ e na def pq foi declrada num escopo global
+print(f'No programa principal n = {n}')   # funciona no princ e na def pq foi declrada num escopo global
 # print(f'No programa principal x = {x}')   ñ vai funcionar pq a váriavel está no escopo local (função)
 teste()
 

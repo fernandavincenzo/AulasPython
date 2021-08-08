@@ -19,6 +19,6 @@ def par(n=0):
 
 num = int(input('Digite um número: '))
 if par(num):
-    print(f'{num} é um número par')
+    print(f'{num} é um número par.')
 else:
-    print(f'{num} é um número ímpar')
+    print(f'{num} é um número ímpar.')
